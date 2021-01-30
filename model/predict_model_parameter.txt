@@ -1,0 +1,2 @@
+all_floors_num:3 50 1 
+activation:tanh
